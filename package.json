@@ -19,7 +19,7 @@
     "dependencies": {
         "@commitlint/config-conventional": "^18.4.3",
         "@formatjs/intl-localematcher": "^0.5.2",
-        "@headlessui/react": "^1.7.17",
+        "@headlessui/react": "^2.0.4",
         "@heroicons/react": "^2.0.18",
         "@hookform/resolvers": "^3.3.2",
         "@reactusehooks/core": "^1.1.2",
